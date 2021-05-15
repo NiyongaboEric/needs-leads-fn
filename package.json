@@ -1,0 +1,37 @@
+{
+  "name": "needs-leads-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiyongaboEric/needs-leads-fn.git"
+  },
+  "keywords": [
+    "NextJS",
+    "CSS",
+    "NodeJS"
+  ],
+  "author": "Eric Niyongabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiyongaboEric/needs-leads-fn/issues"
+  },
+  "homepage": "https://github.com/NiyongaboEric/needs-leads-fn#readme",
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "@types/react": "^17.0.5",
+    "typescript": "^4.2.4"
+  }
+}
